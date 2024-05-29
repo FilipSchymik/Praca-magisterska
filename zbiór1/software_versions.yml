@@ -1,0 +1,37 @@
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.11.7
+  yaml: 5.4.1
+CUSTOM_GETCHROMSIZES:
+  getchromsizes: 1.16.1
+DESEQ2_QC_PSEUDO:
+  bioconductor-deseq2: 1.28.0
+  r-base: 4.0.3
+FASTQC:
+  fastqc: 0.12.1
+FQ_SUBSAMPLE:
+  fq: 0.9.1 (2022-02-22)
+GTF2BED:
+  perl: 5.26.2
+GTF_FILTER:
+  python: 3.9.5
+MAKE_TRANSCRIPTS_FASTA:
+  rsem: 1.3.1
+  star: 2.7.10a
+SALMON_INDEX:
+  salmon: 1.10.1
+SALMON_QUANT:
+  salmon: 1.10.1
+SE_GENE:
+  bioconductor-summarizedexperiment: 1.24.0
+  r-base: 4.1.1
+TRIMGALORE:
+  cutadapt: '3.4'
+  trimgalore: 0.6.7
+TX2GENE:
+  python: 3.9.5
+TXIMPORT:
+  bioconductor-tximeta: 1.12.0
+  r-base: 4.1.1
+Workflow:
+  Nextflow: 23.10.1
+  nf-core/rnaseq: 3.14.0
